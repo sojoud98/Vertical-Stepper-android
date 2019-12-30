@@ -1,6 +1,5 @@
 <h1>Vertical Stepper Android</h1>
-<p>This project is a demo for https://github.com/ernestoyaquello/VerticalStepperForm project
-This is a simplified example on how to create vertical stepper in android project</p>
+<p>This project is a simplified example on how to create vertical stepper in android project, with the ability to costumize steps</p>
 </hr>
 <h2>demo</h2>
 <img src="https://github.com/sojoud98/VerticalStepper/blob/master/demo.gif" alt="demo">
