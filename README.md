@@ -19,6 +19,8 @@ dependencies {
 <br>
  Note: <code>Your minSdkVersion should be at least 20</code>
  <br>
+ <hr>
+
 <h6>2.Add The Form To Your Layout</h6>
 <br>
 Add the view VerticalStepperFormView to your layout using XML. For design purposes, it is recommended that you don't put anything else than this view in the layout of the screen that will contain the form:
@@ -37,6 +39,7 @@ ernestoyaquello.com.verticalstepperform.VerticalStepperFormView
 </pre>
 
 <br>
+<hr>
  <h6>3. Define Your Steps</h6>
  <br>each step is defined by a class that extends the step class.In each step you can define customized layout using any components you wish. <br>
 Example:
@@ -144,6 +147,8 @@ public class NameStep extends Step<String> {
 </code>
  
 <br>
+<hr>
+
 <h6>4.Set Up The Form</h6>
 <p>First make sure to implement StepperFormListener in the file where you want to use the vertical stepper</p>
 <p>Create an instance of each step and give it a title. Then pass those steps in the Stepup methos for the stepper </p>
