@@ -3,7 +3,7 @@
 This is a simplified example on how to create vertical stepper in android project</p>
 </hr>
 <h2>demo</h2>
-![](demo.gif)
+<img src="https://github.com/sojoud98/VerticalStepper/blob/master/demo.gif" alt="demo">
 
 </hr>
 <h2>Usage</h2>
